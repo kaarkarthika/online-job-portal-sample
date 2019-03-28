@@ -61,13 +61,6 @@ if (isset($_POST['signup'])) {
     <link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css"/>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.css">
     <link rel="stylesheet" href="assets/css/style.css" type="text/css"/>
-	<style>
-	.col-md-12
-	{
-	width: 40%;
-    margin-left: 32%;
-	}
-	</style>
 </head>
 <body>
 
